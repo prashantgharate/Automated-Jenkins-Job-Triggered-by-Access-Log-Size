@@ -1,0 +1,1 @@
+*/5 * * * * /opt/trigger-jenkins-if-log-heavy.sh
